@@ -1,6 +1,6 @@
 module.exports = {
-  base: "/Midl/",
-  title: "Midl",
+  base: "/vuepress-exam/",
+  title: "vuepress-exam",
   description: "test",
   themeConfig: {
     nav: [
